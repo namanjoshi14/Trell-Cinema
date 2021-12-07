@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Readex Pro', sans-serif;
+}
+#c1{
+    padding: 15px;
+    display: inline-block;
+}
+#button{
+    background-color: aquamarine;
+    color: black;
+}
+#heading1{
+    background-color: aquamarine;
+    color: black;
+}
+#b1{
+    background-color: black;
+    color: whitesmoke;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+}
+#b2{
+    background-color: black;
+    color: whitesmoke;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+}
+#signupdetails{
+    background-color: aquamarine;
+    color: black;
+    padding: 20px 20px;
+}
+#m1{
+    background-color: aquamarine;
+    color: black;
+    padding: 20px 20px;
+    cursor: pointer;
+    border: none;
+
+}
+#temp{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    
+}
+#main{
+    background-color: aquamarine;
+    color: black;
+    padding: 20px 20px;
+    border: none;
+    margin-left: 50px;
+}
+#img1{
+    width: 150px;
+    height: 150px;
+    
+}
+#main2{
+   margin-left: 250px;
+}
